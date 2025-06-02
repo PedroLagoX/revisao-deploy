@@ -1,0 +1,20 @@
+/* src\pages\Cadastro\styles.css */
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #0040ff;
+  background: linear-gradient(90deg,rgba(0, 64, 255, 1) 0%, rgba(94, 0, 68, 1) 50%, rgba(179, 0, 0, 1) 100%);
+}
+
+.pagina-cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 32px;
+    background: #0040ff;
+    background: linear-gradient(90deg,rgba(0, 64, 255, 1) 0%, rgba(94, 0, 68, 1) 50%, rgba(179, 0, 0, 1) 100%);
+  }
